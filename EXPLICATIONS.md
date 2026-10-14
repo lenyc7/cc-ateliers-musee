@@ -1,7 +1,7 @@
 # EXPLICATIONS — CC A1
 
 ## Identité
-- **Nom / Prénom :** Camus Lény
+- **Nom / Prénom :** Camus Leny
 - **Groupe / Classe :** ESGI A1
 
 ## Branches et modifications
@@ -56,8 +56,8 @@ Un commit n'existe initialement que **localement** sur la machine. Pour qu'il ap
 Par exemple, le commit `0bb6742` a pu être vérifié directement en ligne en allant sur le dépôt GitHub `lenyc7/cc-ateliers-musee`, dans l'onglet « Commits », où il apparaît bien répertorié.
 
 ## Aides utilisées
-- **Outil :** Claude (assistant IA).
+- **Outil :** Claude
 - **Questions posées :** Résolution des erreurs de configuration Git (`git config user.email`), diagnostic du bug d'affichage, gestion des branches et des fusions.
-- **Aide reçue :** Guidage étape par étape avec indices et notions, correction de commandes, exemples de noms de branches, étapes de diagnostic (utilisation de `Ctrl+A`), structure des rubriques du fichier `EXPLICATIONS.md` et relecture/correction des réponses (notamment sur le commit de fusion à 2 parents, la direction des intégrations et la distinction entre fusion technique et bon fonctionnement visuel).
-- **Ce que j'ai retenu / rejeté :** J'ai rédigé et vérifié moi-même les commandes et les tests dans mon environnement, en gardant les explications cohérentes avec mes manipulations réelles.
+- **Aide reçue :** Guidage étape par étape avec indices et notions, correction de commandes, exemples de noms de branches, structure des rubriques du fichier `EXPLICATIONS.md` et relecture/correction des réponses (notamment sur le commit de fusion à 2 parents, la direction des intégrations et la distinction entre fusion technique et bon fonctionnement visuel).
+- **Ce que j'ai retenu / rejeté :** J'ai rédigé et vérifié moi-même les commandes et les tests dans mon environnement, trouvé le probleme avec le texte qui etais invisible car je voyais un espace en dessous du bouton ce qui m'as intriguer et porter a reflection que le texte etais de la meme couleurs que le fond, en gardant les explications cohérentes avec mes manipulations réelles.
 - **Vérifications :** Tests effectifs des scénarios dans le navigateur (réservations, reset, affichage responsive) et vérification de la présence des commits sur le dépôt GitHub.
